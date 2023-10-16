@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Conversion</string>
+    
+    <string-array name="Grade">
+        <item>Celsius</item>
+        <item>Farenheith</item>
+        <item>Kelvin</item>
+    </string-array>
+
+    <string-array name="Grades2">
+        <item>Celsius</item>
+        <item>Farenheith</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
